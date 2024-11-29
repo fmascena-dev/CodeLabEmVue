@@ -60,13 +60,12 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: auto;
   padding: 20px;
 
   h1 {
-    color: #fff;
+    color: #dddddd;
     margin: 1.7rem;
-    text-shadow: 1px 1px 10px rgba(255, 255, 255, 0.6);
+    text-shadow: 0px 2px 15px rgba(255, 255, 255, 0.6);
 
     span {
       color: #e07b67;
